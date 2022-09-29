@@ -1,0 +1,3 @@
+C:\Users\Agamuradov\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agamuradov\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.CoreCompileInputs.cache
